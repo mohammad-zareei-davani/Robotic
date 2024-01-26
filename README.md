@@ -1,2 +1,2 @@
 # Robotic
-Here are some application that I learned from AI & Robotics Club (AIR-Club) at Aston University.
+Here are some applications that I learned from the AI & Robotics Club (AIR-Club) at Aston University.
