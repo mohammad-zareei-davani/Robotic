@@ -1,8 +1,6 @@
 import pybullet as p
 import pybullet_data
 
-
-
 import util
 from util import move_to_joint_pos, gripper_open, gripper_close
 
